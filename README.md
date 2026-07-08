@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0022-generate-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0022-generate-parentheses) |
 ## Linked List
 |  |
 | ------- |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0021-merge-two-sorted-lists) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->

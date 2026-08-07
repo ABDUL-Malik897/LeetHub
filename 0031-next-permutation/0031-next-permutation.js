@@ -12,6 +12,7 @@ var nextPermutation = function(nums) {
     }
     if (pivot === undefined) {
         nums = nums.reverse()
+        return
     }
     for (let j = nums.length -1; j > pivot; j--) {
         if (nums[j] > nums[pivot]) {

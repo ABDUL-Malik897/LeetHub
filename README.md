@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0066-plus-one) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [3731-find-missing-elements](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3731-find-missing-elements) |
 ## Trie
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0023-merge-k-sorted-lists) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -149,9 +152,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0101-symmetric-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->

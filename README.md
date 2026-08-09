@@ -225,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1140-stone-game-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->

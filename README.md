@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0070-climbing-stairs) |
 | [1140-stone-game-ii](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1510-stone-game-iv) |
 | [2485-find-the-pivot-integer](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2485-find-the-pivot-integer) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1140-stone-game-ii](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Divide and Conquer
 |  |
@@ -217,16 +219,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1510-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1510-stone-game-iv) |
 ## Database
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0175-combine-two-tables) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->

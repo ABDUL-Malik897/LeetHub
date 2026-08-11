@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0169-majority-element) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3731-find-missing-elements) |
 ## Math
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0169-majority-element) |
 | [1140-stone-game-ii](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1140-stone-game-ii) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0169-majority-element) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3731-find-missing-elements) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -253,4 +257,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1510-stone-game-iv) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

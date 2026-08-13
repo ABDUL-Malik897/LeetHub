@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0217-contains-duplicate) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3731-find-missing-elements) |
 ## Math
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1140-stone-game-ii) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3731-find-missing-elements) |
 ## Trie
@@ -285,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->

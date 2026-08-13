@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0202-happy-number) |
+| [0728-self-dividing-numbers](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0728-self-dividing-numbers) |
 | [1140-stone-game-ii](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1510-stone-game-iv) |
 | [2485-find-the-pivot-integer](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2485-find-the-pivot-integer) |

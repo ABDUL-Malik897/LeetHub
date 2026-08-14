@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0184-department-highest-salary) |
 | [0584-find-customer-referee](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0584-find-customer-referee) |
 | [0596-classes-with-at-least-5-students](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0596-classes-with-at-least-5-students) |
+| [0601-human-traffic-of-stadium](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0601-human-traffic-of-stadium) |
 | [0608-tree-node](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0608-tree-node) |
 | [0620-not-boring-movies](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0620-not-boring-movies) |
 | [1045-customers-who-bought-all-products](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1045-customers-who-bought-all-products) |

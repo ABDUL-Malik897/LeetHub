@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0219-contains-duplicate-ii) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0219-contains-duplicate-ii) |
 | [1140-stone-game-ii](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1140-stone-game-ii) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0219-contains-duplicate-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Pigeonhole Principle

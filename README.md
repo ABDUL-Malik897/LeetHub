@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3838-weighted-word-mapping](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3838-weighted-word-mapping) |
 ## Array
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3731-find-missing-elements) |
+| [3838-weighted-word-mapping](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3925-concatenate-array-with-reverse) |
 ## Trie
 |  |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0067-add-binary) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3838-weighted-word-mapping](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3925-concatenate-array-with-reverse) |
 ## Memoization
 |  |

@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2574-left-and-right-sum-differences](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2574-left-and-right-sum-differences) |
 | [2942-find-words-containing-character](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1140-stone-game-ii) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2485-find-the-pivot-integer](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2485-find-the-pivot-integer) |
+| [2574-left-and-right-sum-differences](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2574-left-and-right-sum-differences) |
 ## Minimax
 |  |
 | ------- |

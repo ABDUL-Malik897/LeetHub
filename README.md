@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3668-restore-finishing-order) |
+| [3701-compute-alternating-sum](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3838-weighted-word-mapping) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3701-compute-alternating-sum](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3925-concatenate-array-with-reverse) |
 ## Memoization

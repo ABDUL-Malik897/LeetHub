@@ -4,5 +4,5 @@ class Solution(object):
         :type accounts: List[List[int]]
         :rtype: int
         """
-        digit_sums = [sum(int(digit) for digit in num) for num in accounts]
-        return max(digit_sums)
+        wealth = [sum (int(j) for j in i) for i in accounts]
+        return max(wealth)

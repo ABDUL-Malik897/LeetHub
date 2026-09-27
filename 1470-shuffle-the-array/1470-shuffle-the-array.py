@@ -13,5 +13,4 @@ class Solution(object):
             z.append(x[i])
             z.append(y[i])
             i += 1
-
         return z

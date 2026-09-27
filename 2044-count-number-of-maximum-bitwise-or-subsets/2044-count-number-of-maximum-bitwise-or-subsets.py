@@ -1,26 +1,17 @@
 class Solution(object):
     def countMaxOrSubsets(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        target = 0
+        for x in nums:
+            target |= x
 
-        maxOR = [0]
-        count = [0]
-        n = len(nums)
+        def dfs(i, cur):
+            if i == len(nums):
+                return 1 if cur == target else 0
 
-        def explore(index, currentOR):
+            return dfs(i + 1, cur | nums[i]) + dfs(i + 1, cur)
 
-            if index == n:
-
-                if currentOR > maxOR[0]:
-                    maxOR[0] = currentOR
-                    count[0] = 1
-
-                elif currentOR == maxOR[0]:
-                    count[0] += 1
-
-                return
-
-            explore(index + 1, currentOR)
-            explore(index + 1, currentOR | nums[index])
-
-        explore(0, 0)
-
-        return count[0]
+        return dfs(0, 0)

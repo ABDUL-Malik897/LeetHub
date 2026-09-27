@@ -5,13 +5,14 @@ class Solution(object):
         :type pivot: int
         :rtype: List[int]
         """
-        less,equal,greater = [],[],[]
-        for i in nums:
-            if i < pivot :
-                less.append(i)
-            elif i == pivot:
-                equal.append(i)
-            else :
-                greater.append(i)
-        return less + equal + greater
-        
+        left = []
+        middle = []
+        right = []
+        for num in nums:
+            if num < pivot:
+                left.append(num)
+            elif num == pivot:
+                middle.append(num)
+            else:
+                right.append(num)
+        return left + middle + right

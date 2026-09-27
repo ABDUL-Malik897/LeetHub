@@ -4,7 +4,6 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-
         n = len(nums)
 
         def solve(index, current_xor):

@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2574-left-and-right-sum-differences](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2574-left-and-right-sum-differences) |
 | [2942-find-words-containing-character](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Simulation
 |  |
 | ------- |

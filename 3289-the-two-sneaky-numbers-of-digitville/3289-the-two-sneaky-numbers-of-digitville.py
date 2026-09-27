@@ -4,11 +4,11 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        arr = []
-        ans = []
-        for i in nums:
-            if i in arr:
-                ans.append(i)
-            else :
-                arr.append(i)
-        return ans
+        seen = set()
+        result = []
+        for num in nums:
+            if num in seen:
+                result.append(num)
+            else:
+                seen.add(num)
+        return result 

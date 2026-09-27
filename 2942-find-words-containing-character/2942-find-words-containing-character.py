@@ -5,10 +5,8 @@ class Solution(object):
         :type x: str
         :rtype: List[int]
         """
-        ans = []
+        res=[]
         for i in range(len(words)):
             if x in words[i]:
-                ans.append(i)
-            else:
-                continue
-        return ans
+                res.append(i)
+        return res

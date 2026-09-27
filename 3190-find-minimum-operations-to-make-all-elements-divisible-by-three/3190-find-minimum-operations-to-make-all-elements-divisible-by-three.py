@@ -4,9 +4,8 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        op = 0
+        ans = 0
         for i in nums:
-            if i % 3 != 0:
-                op += 1
-        return op
-                
+            if i%3!=0:
+                ans +=1
+        return ans

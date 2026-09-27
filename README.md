@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0205-isomorphic-strings) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0145-binary-tree-postorder-traversal) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -388,4 +390,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1672-richest-customer-wealth) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->

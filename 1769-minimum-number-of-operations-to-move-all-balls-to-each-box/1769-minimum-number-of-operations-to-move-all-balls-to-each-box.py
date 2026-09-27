@@ -4,11 +4,10 @@ class Solution(object):
         :type boxes: str
         :rtype: List[int]
         """
-        answer = []
-        for i in range(0,len(boxes)):
-            operations = 0
-            for j in range(0,len(boxes)):
+        n = len(boxes)
+        answer = [0] * n
+        for i in range(n):
+            for j in range(n):
                 if boxes[j] == '1':
-                    operations += abs(i - j)
-            answer.append(operations)
+                    answer[i] += abs(i - j)
         return answer

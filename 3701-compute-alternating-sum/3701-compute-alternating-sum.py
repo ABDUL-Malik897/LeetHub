@@ -4,11 +4,10 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        total = 0
+        count = 0
         for i in range(len(nums)):
-            if i%2 != 0:
-                total -= nums[i]
+            if i % 2 != 0:
+                count -= nums[i]
             else:
-                total += nums[i]
-        return total
-        
+                count += nums[i] 
+        return count

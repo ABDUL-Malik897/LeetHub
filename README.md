@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2574-left-and-right-sum-differences](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2574-left-and-right-sum-differences) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2942-find-words-containing-character](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Simulation
 |  |
 | ------- |

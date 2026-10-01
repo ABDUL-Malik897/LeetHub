@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0069-sqrtx) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |

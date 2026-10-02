@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2942-find-words-containing-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3498-reverse-degree-of-a-string](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3838-weighted-word-mapping) |
 ## Array
 |  |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3498-reverse-degree-of-a-string](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3925-concatenate-array-with-reverse) |

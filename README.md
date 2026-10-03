@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Recursion

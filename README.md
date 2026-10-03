@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0066-plus-one) |
+| [0085-maximal-rectangle](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0119-pascals-triangle-ii) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0145-binary-tree-postorder-traversal) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -498,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0200-number-of-islands) |
 | [0883-projection-area-of-3d-shapes](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0883-projection-area-of-3d-shapes) |
 | [0994-rotting-oranges](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0994-rotting-oranges) |
@@ -547,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1944-number-of-visible-people-in-a-queue) |

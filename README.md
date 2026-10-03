@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0268-missing-number) |
+| [0460-lfu-cache](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0460-lfu-cache) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1512-number-of-good-pairs) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0206-reverse-linked-list) |
+| [0460-lfu-cache](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0460-lfu-cache) |
 ## Stack
 |  |
 | ------- |
@@ -536,8 +538,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->

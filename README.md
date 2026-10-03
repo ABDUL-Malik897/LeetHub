@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0205-isomorphic-strings) |
 | [0316-remove-duplicate-letters](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0316-remove-duplicate-letters) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0145-binary-tree-postorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0316-remove-duplicate-letters) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0316-remove-duplicate-letters) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Prefix Sum
@@ -494,4 +497,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0316-remove-duplicate-letters) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->

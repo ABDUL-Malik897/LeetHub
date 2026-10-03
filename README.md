@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1510-stone-game-iv) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Divide and Conquer
 |  |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0207-course-schedule) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Binary Tree
 |  |
 | ------- |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0207-course-schedule) |
 | [0994-rotting-oranges](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0994-rotting-oranges) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -529,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0207-course-schedule) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Counting Sort
 |  |

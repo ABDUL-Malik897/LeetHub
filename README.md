@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0219-contains-duplicate-ii) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0200-number-of-islands) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0200-number-of-islands) |
 | [0883-projection-area-of-3d-shapes](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0883-projection-area-of-3d-shapes) |
 | [1672-richest-customer-wealth](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1672-richest-customer-wealth) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2373-largest-local-values-in-a-matrix) |
@@ -509,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0200-number-of-islands) |
 ## Monotonic Stack
 |  |
 | ------- |

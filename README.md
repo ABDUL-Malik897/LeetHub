@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0347-top-k-frequent-elements) |
+| [0485-max-consecutive-ones](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 | [0883-projection-area-of-3d-shapes](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0883-projection-area-of-3d-shapes) |
 | [0994-rotting-oranges](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0994-rotting-oranges) |

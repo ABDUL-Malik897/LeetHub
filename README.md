@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0205-isomorphic-strings) |
 | [0316-remove-duplicate-letters](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0316-remove-duplicate-letters) |
+| [0796-rotate-string](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |

@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1512-number-of-good-pairs) |
+| [1688-count-of-matches-in-tournament](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1688-count-of-matches-in-tournament) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2485-find-the-pivot-integer](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2485-find-the-pivot-integer) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0067-add-binary) |
+| [1688-count-of-matches-in-tournament](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2011-final-value-of-variable-after-performing-operations) |

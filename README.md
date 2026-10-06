@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0205-isomorphic-strings) |
 | [0316-remove-duplicate-letters](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0316-remove-duplicate-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0145-binary-tree-postorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0316-remove-duplicate-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0316-remove-duplicate-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
@@ -536,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0032-longest-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Graph Theory

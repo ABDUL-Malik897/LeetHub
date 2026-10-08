@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0485-max-consecutive-ones) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0633-sum-of-square-numbers) |
 | [0881-boats-to-save-people](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0977-squares-of-a-sorted-array) |

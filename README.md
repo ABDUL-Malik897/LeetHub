@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0326-power-of-three) |
 | [0633-sum-of-square-numbers](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0728-self-dividing-numbers) |
 | [0883-projection-area-of-3d-shapes](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0883-projection-area-of-3d-shapes) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0326-power-of-three) |
 ## Dynamic Programming
 |  |
 | ------- |

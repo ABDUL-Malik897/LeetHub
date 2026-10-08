@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0342-power-of-four) |
 | [0633-sum-of-square-numbers](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0728-self-dividing-numbers) |
 | [0883-projection-area-of-3d-shapes](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0883-projection-area-of-3d-shapes) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0342-power-of-four) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0645-set-mismatch) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1720-decode-xored-array) |

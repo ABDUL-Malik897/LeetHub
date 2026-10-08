@@ -10,15 +10,14 @@ class Solution(object):
         :type nums: List[int]
         :rtype: Optional[TreeNode]
         """
-        def makeTree(l,r):
-            if l > r:
-                return None
-            mid = (l + r) // 2
-            node = TreeNode(nums[mid])
-            node.left = makeTree(l, mid - 1)
-            node.right = makeTree(mid + 1, r)
-            return node
-        return makeTree(0,len(nums) - 1)
-        
+        l = 0
+        r = len(nums) - 1
+        if l > r:
+            return None
+        mid = (l + r) // 2
+        node = TreeNode(nums[mid])
+        node.left = self.sortedArrayToBST(nums[:mid])
+        node.right = self.sortedArrayToBST(nums[mid + 1:])
+        return node        
 
 

@@ -10,11 +10,9 @@ class Solution(object):
         :type nums: List[int]
         :rtype: Optional[TreeNode]
         """
-        l = 0
-        r = len(nums) - 1
-        if l > r:
+        if not nums:
             return None
-        mid = (l + r) // 2
+        mid = len(nums) // 2
         node = TreeNode(nums[mid])
         node.left = self.sortedArrayToBST(nums[:mid])
         node.right = self.sortedArrayToBST(nums[mid + 1:])

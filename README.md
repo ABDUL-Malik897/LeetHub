@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0342-power-of-four) |
 | [0633-sum-of-square-numbers](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0633-sum-of-square-numbers) |
@@ -488,11 +489,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0292-nim-game) |
 | [1140-stone-game-ii](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1510-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0292-nim-game) |
 | [1140-stone-game-ii](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
@@ -523,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Nim Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1510-stone-game-iv) |
 ## Sprague–Grundy Theorem
 |  |
@@ -706,4 +710,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0075-sort-colors) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->

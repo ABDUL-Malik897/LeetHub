@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0204-count-primes) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0200-number-of-islands) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0316-remove-duplicate-letters](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0316-remove-duplicate-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1021-remove-outermost-parentheses) |

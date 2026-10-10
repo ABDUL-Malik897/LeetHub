@@ -4,5 +4,4 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        s = "".join(str(x) for x in nums)
-        return [int(x) for x in s]
+        return [int(x) for x in ("".join(str(x) for x in nums))]

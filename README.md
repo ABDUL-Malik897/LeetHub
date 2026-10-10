@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2485-find-the-pivot-integer) |
 | [2523-closest-prime-numbers-in-range](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2523-closest-prime-numbers-in-range) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3467-transform-array-by-parity) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3838-weighted-word-mapping) |

@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1476-subrectangle-queries](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1476-subrectangle-queries) |
 | [1480-running-sum-of-1d-array](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1512-number-of-good-pairs) |
@@ -605,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0200-number-of-islands) |
 | [0883-projection-area-of-3d-shapes](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0883-projection-area-of-3d-shapes) |
 | [0994-rotting-oranges](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0994-rotting-oranges) |
+| [1476-subrectangle-queries](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1476-subrectangle-queries) |
 | [1672-richest-customer-wealth](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1672-richest-customer-wealth) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2373-largest-local-values-in-a-matrix) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -690,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0460-lfu-cache) |
+| [1476-subrectangle-queries](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1476-subrectangle-queries) |
 ## Doubly-Linked List
 |  |
 | ------- |

@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1816-truncate-sentence](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1816-truncate-sentence) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1512-number-of-good-pairs) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1720-decode-xored-array) |

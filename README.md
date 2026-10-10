@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1816-truncate-sentence](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1816-truncate-sentence) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |

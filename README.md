@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3794-reverse-string-prefix](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3838-weighted-word-mapping) |
 ## Array
 |  |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2367-number-of-arithmetic-triplets) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3794-reverse-string-prefix](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
 | ------- |

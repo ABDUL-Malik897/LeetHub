@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0485-max-consecutive-ones) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0633-sum-of-square-numbers) |
 | [0881-boats-to-save-people](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0881-boats-to-save-people) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0633-sum-of-square-numbers) |
 | [1004-max-consecutive-ones-iii](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1004-max-consecutive-ones-iii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0645-set-mismatch) |
@@ -540,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
@@ -641,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0287-find-the-duplicate-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Combinatorics
 |  |

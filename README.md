@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0067-add-binary) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0206-reverse-linked-list) |

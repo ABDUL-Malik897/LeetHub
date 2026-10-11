@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0067-add-binary) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0056-merge-intervals) |
@@ -648,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0200-number-of-islands) |

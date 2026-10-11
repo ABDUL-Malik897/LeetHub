@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0073-set-matrix-zeroes) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0118-pascals-triangle) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0190-reverse-bits) |

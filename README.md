@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 | [0636-exclusive-time-of-functions](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0645-set-mismatch) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0493-reverse-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0493-reverse-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0493-reverse-pairs) |
 | [0633-sum-of-square-numbers](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0633-sum-of-square-numbers) |
 | [1004-max-consecutive-ones-iii](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1004-max-consecutive-ones-iii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -646,10 +650,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0493-reverse-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0493-reverse-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Sliding Window
 |  |
@@ -826,4 +832,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0292-nim-game) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->

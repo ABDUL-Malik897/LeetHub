@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3193-count-the-number-of-inversions](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3193-count-the-number-of-inversions) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
+| [3193-count-the-number-of-inversions](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3193-count-the-number-of-inversions) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Divide and Conquer
 |  |

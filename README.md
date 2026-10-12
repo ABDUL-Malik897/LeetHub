@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0205-isomorphic-strings) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0131-palindrome-partitioning) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Linked List
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0338-counting-bits) |
 | [1140-stone-game-ii](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1140-stone-game-ii) |

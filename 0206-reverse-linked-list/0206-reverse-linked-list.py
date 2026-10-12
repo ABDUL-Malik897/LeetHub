@@ -9,13 +9,11 @@ class Solution(object):
         :type head: Optional[ListNode]
         :rtype: Optional[ListNode]
         """
-        if head is None:
-            return head
         prev = None
         current = head
-        while current :
-            next = current.next
+        while current is not None:
+            next_node = current.next
             current.next = prev
             prev = current
-            current = next
+            current = next_node
         return prev

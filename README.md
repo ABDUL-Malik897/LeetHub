@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0078-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Linked List
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0231-power-of-two) |

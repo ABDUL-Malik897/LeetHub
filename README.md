@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2367-number-of-arithmetic-triplets) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2942-find-words-containing-character](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2942-find-words-containing-character) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Simulation
 |  |
 | ------- |
@@ -587,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Prefix Sum

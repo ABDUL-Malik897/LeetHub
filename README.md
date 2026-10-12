@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0633-sum-of-square-numbers) |
+| [0876-middle-of-the-linked-list](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0977-squares-of-a-sorted-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0206-reverse-linked-list) |
 | [0460-lfu-cache](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0460-lfu-cache) |
+| [0876-middle-of-the-linked-list](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |

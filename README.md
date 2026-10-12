@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0338-counting-bits) |
 | [1140-stone-game-ii](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1140-stone-game-ii) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1510-stone-game-iv](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1510-stone-game-iv) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |

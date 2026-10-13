@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0771-jewels-and-stones) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2367-number-of-arithmetic-triplets](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2367-number-of-arithmetic-triplets) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1313-decompress-run-length-encoded-list](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1313-decompress-run-length-encoded-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1389-create-target-array-in-the-given-order) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1470-shuffle-the-array) |
@@ -705,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0347-top-k-frequent-elements) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3467-transform-array-by-parity](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3467-transform-array-by-parity) |

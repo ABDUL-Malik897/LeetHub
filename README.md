@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0345-reverse-vowels-of-a-string) |
 | [0771-jewels-and-stones](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/ABDUL-Malik897/LeetHub/tree/master/0876-middle-of-the-linked-list) |

@@ -9,16 +9,14 @@ class Solution(object):
         r = len(s) - 1
         while l < r :
             if s[l].lower() in "aeiou" and s[r].lower() in 'aeiou':
-                x = s[l]
-                s[l] = s[r]
-                s[r] = x   
+                s[l],s[r] = s[r],s[l]  
                 l += 1
                 r -= 1             
-            elif s[l].lower() in "aeiou" and s[r].lower() not in 'aeiou':
+            elif s[l].lower() in "aeiou":
                 r -= 1
-            elif s[l].lower()  not in "aeiou" and s[r].lower() in 'aeiou':
+            elif s[r].lower() in 'aeiou':
                 l += 1
-            elif s[l].lower() not in "aeiou" and s[r].lower() not in 'aeiou':
+            else:
                 l += 1
                 r -= 1
         return ''.join(s)

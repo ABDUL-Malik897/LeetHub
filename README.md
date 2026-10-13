@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2367-number-of-arithmetic-triplets](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2367-number-of-arithmetic-triplets) |
+| [2418-sort-the-people](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2418-sort-the-people) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2027-minimum-moves-to-convert-string](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2027-minimum-moves-to-convert-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2418-sort-the-people](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2418-sort-the-people) |
 | [2942-find-words-containing-character](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2942-find-words-containing-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3110-score-of-a-string) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2367-number-of-arithmetic-triplets](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2367-number-of-arithmetic-triplets) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2373-largest-local-values-in-a-matrix) |
+| [2418-sort-the-people](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2418-sort-the-people) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2574-left-and-right-sum-differences) |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/ABDUL-Malik897/LeetHub/tree/master/1710-maximum-units-on-a-truck) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2418-sort-the-people](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2418-sort-the-people) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |

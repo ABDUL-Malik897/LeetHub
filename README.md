@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3895-count-digit-appearances) |
 ## String
@@ -651,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/ABDUL-Malik897/LeetHub/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ABDUL-Malik897/LeetHub/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
